@@ -1,0 +1,11 @@
+company,sector,url,risk_score,risk_label,total_sentences,total_findings,high_findings,medium_findings,elapsed_sec,analyzed_at,cat_Data,cat_Location,cat_Indefini,cat_No,cat_Behavior,cat_Children,cat_Law
+Google,Search / Advertising,https://policies.google.com/privacy,60,HIGH RISK,335,16,9,7,4.7,2026-05-01 22:41:34,4,4,2,0,1,1,4
+Apple,Consumer Electronics,https://www.apple.com/legal/privacy/en-ww/,53,HIGH RISK,186,14,11,3,2.3,2026-05-01 22:41:37,5,1,0,0,1,5,2
+Microsoft,Software / Cloud,https://privacy.microsoft.com/en-us/privacystatement,85,CRITICAL RISK,2221,108,88,20,17.5,2026-05-01 22:41:55,33,19,1,1,8,36,10
+TikTok,Social Media / Video,https://www.tiktok.com/legal/page/us/privacy-policy/en,80,CRITICAL RISK,158,24,18,6,3.0,2026-05-01 22:41:58,5,3,2,0,2,8,4
+Twitter / X,Social Media,https://twitter.com/en/privacy,61,HIGH RISK,229,20,16,4,3.2,2026-05-01 22:42:01,8,2,0,0,0,6,4
+LinkedIn,Professional Network,https://www.linkedin.com/legal/privacy-policy,54,HIGH RISK,275,21,13,8,4.2,2026-05-01 22:42:06,10,2,1,0,3,0,5
+Spotify,Music Streaming,https://www.spotify.com/us/legal/privacy-policy/,81,CRITICAL RISK,271,24,15,9,3.8,2026-05-01 22:42:09,7,3,3,0,2,2,7
+Airbnb,Travel / Marketplace,https://www.airbnb.com/help/article/2855,0,LOW RISK,10,0,0,0,1.5,2026-05-01 22:42:11,0,0,0,0,0,0,0
+Zoom,Video Conferencing,https://explore.zoom.us/en/privacy/,65,HIGH RISK,224,20,14,6,4.6,2026-05-01 22:42:15,9,1,2,0,3,3,2
+DuckDuckGo,Privacy-focused Search,https://duckduckgo.com/privacy,22,LOW RISK,83,4,3,1,1.6,2026-05-01 22:42:17,1,2,0,0,1,0,0

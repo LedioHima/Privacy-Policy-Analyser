@@ -1,0 +1,143 @@
+{
+  "url": "https://policies.google.com/privacy",
+  "analyzed_at": "2026-04-26 18:04:21",
+  "total_sentences": 335,
+  "risk_score": 60,
+  "risk_label": "HIGH RISK",
+  "total_findings": 16,
+  "category_counts": {
+    "Data Selling & Third-Party Sharing": {
+      "total": 4,
+      "high": 4,
+      "medium": 0
+    },
+    "Location Tracking": {
+      "total": 4,
+      "high": 1,
+      "medium": 3
+    },
+    "Indefinite Data Retention": {
+      "total": 2,
+      "high": 2,
+      "medium": 0
+    },
+    "No Right to Deletion": {
+      "total": 0,
+      "high": 0,
+      "medium": 0
+    },
+    "Behavioral Profiling": {
+      "total": 1,
+      "high": 0,
+      "medium": 1
+    },
+    "Children's Data Collection": {
+      "total": 1,
+      "high": 1,
+      "medium": 0
+    },
+    "Law Enforcement & Government Sharing": {
+      "total": 4,
+      "high": 1,
+      "medium": 3
+    }
+  },
+  "findings": [
+    {
+      "sentence": "The activity information we collect may include: Terms you search for Videos you watch Views and interactions with content and ads Voice and audio information Purchase activity People with whom you communicate or share content Activity on third-party sites and apps that use our services",
+      "category": "Data Selling & Third-Party Sharing",
+      "severity": "HIGH",
+      "plain_english": "Your data is shared with third-party partners, likely for advertising."
+    },
+    {
+      "sentence": "Your location information We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.",
+      "category": "Location Tracking",
+      "severity": "HIGH",
+      "plain_english": "The company collects your location data."
+    },
+    {
+      "sentence": "These include: GPS and other sensor data from your device IP address Activity on Google services , such as from your searches or places you label like home or work Information about things near your device , such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices The types of location data we collect and how long we store it depend in part on your device and account settings.",
+      "category": "Location Tracking",
+      "severity": "MEDIUM",
+      "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+    },
+    {
+      "sentence": "We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse .",
+      "category": "Data Selling & Third-Party Sharing",
+      "severity": "HIGH",
+      "plain_english": "Your data is shared with advertising or data broker networks."
+    },
+    {
+      "sentence": "We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to.",
+      "category": "Data Selling & Third-Party Sharing",
+      "severity": "HIGH",
+      "plain_english": "Your data is shared with third-party partners, likely for advertising."
+    },
+    {
+      "sentence": "We also provide you with controls to review and manage third party apps and sites you have given access to data in your Google Account.",
+      "category": "Data Selling & Third-Party Sharing",
+      "severity": "HIGH",
+      "plain_english": "Your data may be transferred or disclosed to outside organizations."
+    },
+    {
+      "sentence": "They may be able to: Access and retain information stored in your account, like your email View statistics regarding your account, like how many apps you install Change your account password Suspend or terminate your account access Receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request Restrict your ability to delete or edit your information or your privacy settings For external processing We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.",
+      "category": "Law Enforcement & Government Sharing",
+      "severity": "MEDIUM",
+      "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+    },
+    {
+      "sentence": "For legal reasons We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation, legal process, or enforceable governmental request .",
+      "category": "Law Enforcement & Government Sharing",
+      "severity": "MEDIUM",
+      "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+    },
+    {
+      "sentence": "We’ll keep this data in your Google Account until you remove it or choose to have it removed.",
+      "category": "Indefinite Data Retention",
+      "severity": "HIGH",
+      "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+    },
+    {
+      "sentence": "We keep some data until you delete your Google Account, such as information about how often you use our services.",
+      "category": "Indefinite Data Retention",
+      "severity": "HIGH",
+      "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+    },
+    {
+      "sentence": "Family Link privacy guide for children & teens Voice and Audio Collection from Children’s Features on the Google Assistant If you’re a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the Google Cloud Privacy Notice .",
+      "category": "Children's Data Collection",
+      "severity": "HIGH",
+      "plain_english": "The policy addresses data collection from children — requires careful review."
+    },
+    {
+      "sentence": "An IP address can often be used to identify the location from which a device is connecting to the Internet.",
+      "category": "Location Tracking",
+      "severity": "MEDIUM",
+      "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+    },
+    {
+      "sentence": "Pixel tag A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened.",
+      "category": "Behavioral Profiling",
+      "severity": "MEDIUM",
+      "plain_english": "Your browsing behavior, habits, and interests are being tracked."
+    },
+    {
+      "sentence": "We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for “pizza.”",
+      "category": "Location Tracking",
+      "severity": "MEDIUM",
+      "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+    },
+    {
+      "sentence": "Learn more legal process, or enforceable governmental request Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to disclose user data.",
+      "category": "Law Enforcement & Government Sharing",
+      "severity": "MEDIUM",
+      "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+    },
+    {
+      "sentence": "The “last account activity” feature in Gmail can help you find out if and when someone accessed your email without your knowledge.",
+      "category": "Law Enforcement & Government Sharing",
+      "severity": "HIGH",
+      "plain_english": "Your data can be shared with authorities without notifying you."
+    }
+  ]
+}

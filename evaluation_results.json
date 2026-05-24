@@ -1,0 +1,1744 @@
+{
+  "generated_at": "2026-05-01 22:42:17",
+  "total_tested": 10,
+  "total_failed": 2,
+  "results": [
+    {
+      "company": "Google",
+      "sector": "Search / Advertising",
+      "url": "https://policies.google.com/privacy",
+      "risk_score": 60,
+      "risk_label": "HIGH RISK",
+      "total_sentences": 335,
+      "total_findings": 16,
+      "high_findings": 9,
+      "medium_findings": 7,
+      "elapsed_sec": 4.7,
+      "analyzed_at": "2026-05-01 22:41:34",
+      "cat_Data": 4,
+      "cat_Location": 4,
+      "cat_Indefini": 2,
+      "cat_No": 0,
+      "cat_Behavior": 1,
+      "cat_Children": 1,
+      "cat_Law": 4,
+      "_findings": [
+        {
+          "sentence": "The activity information we collect may include: Terms you search for Videos you watch Views and interactions with content and ads Voice and audio information Purchase activity People with whom you communicate or share content Activity on third-party sites and apps that use our services",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Your location information We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "These include: GPS and other sensor data from your device IP address Activity on Google services , such as from your searches or places you label like home or work Information about things near your device , such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices The types of location data we collect and how long we store it depend in part on your device and account settings.",
+          "category": "Location Tracking",
+          "severity": "MEDIUM",
+          "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+        },
+        {
+          "sentence": "We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse .",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We also provide you with controls to review and manage third party apps and sites you have given access to data in your Google Account.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "They may be able to: Access and retain information stored in your account, like your email View statistics regarding your account, like how many apps you install Change your account password Suspend or terminate your account access Receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request Restrict your ability to delete or edit your information or your privacy settings For external processing We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "For legal reasons We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation, legal process, or enforceable governmental request .",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "We’ll keep this data in your Google Account until you remove it or choose to have it removed.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+        },
+        {
+          "sentence": "We keep some data until you delete your Google Account, such as information about how often you use our services.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+        },
+        {
+          "sentence": "Family Link privacy guide for children & teens Voice and Audio Collection from Children’s Features on the Google Assistant If you’re a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the Google Cloud Privacy Notice .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "An IP address can often be used to identify the location from which a device is connecting to the Internet.",
+          "category": "Location Tracking",
+          "severity": "MEDIUM",
+          "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+        },
+        {
+          "sentence": "Pixel tag A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "Your browsing behavior, habits, and interests are being tracked."
+        },
+        {
+          "sentence": "We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for “pizza.”",
+          "category": "Location Tracking",
+          "severity": "MEDIUM",
+          "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+        },
+        {
+          "sentence": "Learn more legal process, or enforceable governmental request Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to disclose user data.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "The “last account activity” feature in Gmail can help you find out if and when someone accessed your email without your knowledge.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data can be shared with authorities without notifying you."
+        }
+      ]
+    },
+    {
+      "company": "Apple",
+      "sector": "Consumer Electronics",
+      "url": "https://www.apple.com/legal/privacy/en-ww/",
+      "risk_score": 53,
+      "risk_label": "HIGH RISK",
+      "total_sentences": 186,
+      "total_findings": 14,
+      "high_findings": 11,
+      "medium_findings": 3,
+      "elapsed_sec": 2.3,
+      "analyzed_at": "2026-05-01 22:41:37",
+      "cat_Data": 5,
+      "cat_Location": 1,
+      "cat_Indefini": 0,
+      "cat_No": 0,
+      "cat_Behavior": 1,
+      "cat_Children": 5,
+      "cat_Law": 2,
+      "_findings": [
+        {
+          "sentence": "Precise location only to support services such as Find My or where you agree for region-specific services, and coarse location Health Information.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "We have measures in place to reduce the amount of personal data we collect and make no attempt to connect data crawled to any individual Apple user, or to build profiles about individuals.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "To comply with applicable law — for example, to satisfy tax or reporting obligations, or to comply with a lawful governmental request.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "Apple’s Sharing of Personal Data Apple may share personal data with Apple-affiliated companies , service providers who act on our behalf, our partners , developers, and publishers , or others at your direction .",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Further, Apple does not share personal data with third parties for their own marketing purposes.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "Apple does not sell your personal data including as “sale” is defined in Nevada and California.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        },
+        {
+          "sentence": "Children and Personal Data Apple understands the importance of safeguarding the personal data of children, which we consider to be an individual under the age of 13 or the equivalent age as specified by law in your jurisdiction .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "That is why Apple has implemented additional processes and protections to help keep children’s personal data safe.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "To create a child account, parents must review the Family Privacy Disclosure for Children , which describes how Apple handles children’s personal data.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "If we learn that a child’s personal data was collected without appropriate authorization, it will be deleted as soon as possible.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "To exercise privacy rights for your child’s information, visit the Apple Data and Privacy page at privacy.apple.com and sign in to their account.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "For the purposes of processing set out in this Privacy Policy, Apple may also transfer such personal data to third-party service providers, who may in turn store or transfer the data outside of the People’s Republic of China.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        }
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "sector": "Software / Cloud",
+      "url": "https://privacy.microsoft.com/en-us/privacystatement",
+      "risk_score": 85,
+      "risk_label": "CRITICAL RISK",
+      "total_sentences": 2221,
+      "total_findings": 108,
+      "high_findings": 88,
+      "medium_findings": 20,
+      "elapsed_sec": 17.5,
+      "analyzed_at": "2026-05-01 22:41:55",
+      "cat_Data": 33,
+      "cat_Location": 19,
+      "cat_Indefini": 1,
+      "cat_No": 1,
+      "cat_Behavior": 8,
+      "cat_Children": 36,
+      "cat_Law": 10,
+      "_findings": [
+        {
+          "sentence": "We rely on a variety of legal reasons and permissions (sometimes called “legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "These third-party sources vary over time and include: Data brokers from which we purchase demographic data to supplement the data we collect.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "Interactions with bots and skills available through Microsoft products, including bots and skills provided by third parties.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "For example, we collect location data using Global Navigation Satellite System (GNSS) (e.g., GPS) and data about nearby cell towers and Wi-Fi hotspots.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "Purposes and legal bases for processing When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in the Reasons we share personal data section of this privacy statement.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "For example, we use the age of our customers to assist us in meeting our obligations to protect children’s privacy.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "We also share data with Microsoft-controlled affiliates and subsidiaries; with vendors working on our behalf; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our products; and to protect the rights and property of Microsoft and its customers.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "For example, we share your content with third parties when you tell us to do so, such as when you send an email to a friend, share photos and documents on OneDrive, or link accounts with another service.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We also share personal data for digital advertising purposes.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "In addition, we share personal data among Microsoft-controlled affiliates and subsidiaries, including for the purposes described in this privacy statement.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Requests Report .",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "If you have a Microsoft Developer Network (MSDN) public profile, you can access and edit your data by signing in at MSDN forum .",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing your communication permissions where you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit our third party cookie inventory.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "Contains information that Microsoft account uses within its pages in relation to child accounts.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "Records your decision not to receive interest-based advertising delivered by Microsoft.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "Your browsing behavior, habits, and interests are being tracked."
+        },
+        {
+          "sentence": "For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit our third party cookie inventory .",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "But, like standard cookies, these technologies can also store a unique identifier for your computer, which can then track behavior.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "Your browsing behavior, habits, and interests are being tracked."
+        },
+        {
+          "sentence": "For Microsoft products provided by your K-12 school, including Microsoft 365 Education, Microsoft will: not collect or use student personal data beyond that needed for authorized educational or school purposes; not sell or rent student personal data; not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students; not build a personal profile of a student, other than for supporting authorized educational or school purposes or as authorized by the parent, guardian, or student of appropriate age; and require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        },
+        {
+          "sentence": "For Microsoft products provided by your K-12 school, including Microsoft 365 Education, Microsoft will: not collect or use student personal data beyond that needed for authorized educational or school purposes; not sell or rent student personal data; not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students; not build a personal profile of a student, other than for supporting authorized educational or school purposes or as authorized by the parent, guardian, or student of appropriate age; and require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "When you or your service provider (such as a cable or internet service provider) create your Microsoft account tied to your email address with your service provider’s domain, we refer to that account as a third-party account .",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "When you or your service provider (such as a cable or internet service provider) create your Microsoft account tied to your email address with your service provider’s domain, we refer to that account as a third-party account .",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third party’s privacy policy.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "View Summary Learn more Back to top Collection of data from children For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "We will not knowingly ask children under that age to provide more data than is required to provide for the product.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "As the organizer of a Microsoft family group, the parent or guardian can manage their child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "For child accounts that do not require parental consent to be created, (e.g., for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "Select Learn more below for more information about how to access and delete child data and information about children and Xbox profiles.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "We will not knowingly ask children under that age to provide more data than is required to provide for the product.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "As the organizer of a Microsoft family group, the parent or guardian can manage their child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "For child accounts that do not require parental consent to be created (e.g., for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "See below for more information about how to access and delete child data.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Below is additional information about the collection of data from children, including more details as related to Xbox.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "Accessing and deleting child data.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parent’s privacy dashboard : browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Please note that a parent’s ability to access and/or delete a child’s personal information on their privacy dashboard will vary depending on the laws where you are located.",
+          "category": "No Right to Deletion",
+          "severity": "HIGH",
+          "plain_english": "There is no right or option provided to delete your data."
+        },
+        {
+          "sentence": "Please note that a parent’s ability to access and/or delete a child’s personal information on their privacy dashboard will vary depending on the laws where you are located.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "If your child’s account is not a part of your Microsoft family group and you do not have access to your child’s activity on your privacy dashboard, then you need to submit a request related to your child’s data through the privacy support form .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "To delete all of your child’s personal information, you must request deletion of the child’s account through the close your account form .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Data we collect when you create an Xbox profile .",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "We collect limited information about children, including name, birthdate, email address, and region.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "When you create your child’s Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "Your child’s privacy and communication settings are defaulted to the most restrictive.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "We collect information about your child’s use of Xbox services, games, apps, and devices including: When they sign in and sign out of Xbox, purchase history, and content they obtain.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "If a player captures game clips and screenshots on a PC, the resulting game clips might also capture audio chat if your child’s privacy and communication settings on the Xbox online network allow it.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Microsoft uses the data we collect when your child uses Xbox to improve gaming products and experiences— making it safer and more fun over time.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "Data we collect also enables us to provide your child with curated experiences.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "This data may include: your child’s Xbox user identifier, gamertag, limited account info such as country and age range, data about your child’s in-game communications, any Xbox enforcement activity, game-play sessions (for example, moves made in-game or types of vehicles used in-game), your child’s presence on the Xbox network, the time they spend playing the game or app, rankings, statistics, gamer profiles, avatars, or gamerpics, friends lists, activity feeds for official clubs they belong to, official club memberships, and any content they create or submit in the game or app.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "You should carefully review their policies to determine how they use your child’s data.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "Some publisher access to your child’s data may be revoked at microsoft.com/consent .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Xbox’s AI-enhanced features do not use children’s data for model training.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "As the organizer of a Microsoft family group, you can manage a child’s information and settings on their Family Safety page, as well as their Xbox profile privacy settings from their Xbox Privacy & online safety page .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "You can also use the Xbox Family Settings app to manage your child’s experience on the Xbox Network including: spending for Microsoft and Xbox stores, viewing your child’s Xbox activity, and setting age ratings and the amount of screen time.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "Back to top Our retention of personal data Microsoft retains personal data for as long as necessary to provide the products and services you use and to fulfill the transactions you request.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "Your data is kept for an undefined or unlimited period of time."
+        },
+        {
+          "sentence": "We also retain personal data for other legitimate purposes such as operating our business, meeting our contractual and legal obligations, improving and developing our products and services, protecting the safety and security of our systems and customers, and resolving disputes.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "For example, we maintain a shortened retention period for precise geolocation information.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "Legal, contractual and other similar obligations we are subject to, including data retention laws, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "We do not sell your personal data.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        },
+        {
+          "sentence": "In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "As referenced in the Reasons we share personal data section, we may also share this data among Microsoft-controlled affiliates and subsidiaries.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "You have the right to (i) know what personal data we collect, use, disclose, “share”, and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, (v) receive a copy of your personal data, and (vi) opt-out of “sharing” your personal data with third parties for personalized advertising purposes on third party sites.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        },
+        {
+          "sentence": "You may have the right to know how we may provide your data to certain third parties (if any).",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "Microsoft will turn off sharing your data with third parties for personalized ads and turn off the “Share my data with third parties for personalized ads” toggle if we receive a GPC signal from you when you visit our sites.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Service providers and user-directed entities Credentials Sources of personal data: Interactions with users and organizations that represent users Purposes of Processing (Collection and Disclosure to Third Parties): Provide our products; authentication and account access; and help, secure and troubleshoot Recipients: Service providers and user-directed entities Demographic data Sources of personal data: Interactions with users and purchases from data brokers Purposes of Processing (Collection and Disclosure to Third Parties): Provide and personalize our products; product development; help, secure, and troubleshoot; and marketing Recipients:",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "Similarly, we process all categories of personal data for the purposes described in the How we use personal data section, such as meeting our legal obligations, developing our workforce, and doing research.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "Recipients: Service providers and payment processing providers Precise geo-location information Sources of sensitive data: Users’ interactions with the products Purposes of Processing (Collection and Disclosure to Third Parties): Provide the service requested; product improvement; some attributes may be disclosed to third parties to provide the service Recipients: Users and service providers (please see the Windows Location Services and Recording section of our privacy statement for more information) Racial or ethnic origin, religious or philosophical beliefs, or union membership Sources of sensitive data:",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "Recipients: Service providers and payment processing providers Precise geo-location information Sources of sensitive data: Users’ interactions with the products Purposes of Processing (Collection and Disclosure to Third Parties): Provide the service requested; product improvement; some attributes may be disclosed to third parties to provide the service Recipients: Users and service providers (please see the Windows Location Services and Recording section of our privacy statement for more information) Racial or ethnic origin, religious or philosophical beliefs, or union membership Sources of sensitive data:",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "Service providers Contents of your mail, email, or text messages (where Microsoft is not the intended recipient of the communication) Sources of sensitive data: Users’ interactions with the products Purposes of Processing (Collection and Disclosure to Third Parties): Provide our products; improve the product experience; safety; and help, secure, and troubleshoot Recipients: Service providers Personal data collected from a known child under 13 years of age Sources of sensitive data: Interactions with users and organizations that represent users Purposes of Processing (Collection and Disclosure to Third Parties): Provide our products; product improvement; product development; recommendations; help, secure, and troubleshoot; and safety Recipients: Service providers and user-directed entities (in accordance with your Microsoft Family Safety settings ) While the bulleted list above contains the primary sources and purposes of processing for personal data collected from children under 13, we also collect personal data from the sources listed in the Collection of Data from Children section.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "We do not use or disclose your sensitive data for purposes other than the following: Perform the services or provide the goods you reasonably expect Help ensure the security and integrity of our services, systems, and data, to combat malicious deceptive, fraudulent or illegal acts, and to protect the physical safety of individuals, to the extent the processing is reasonably necessary and proportionate For short-term transient use (including non-personalized advertising), so long as the personal data is not disclosed to a third party, is not used for profiling, and is not used to alter an individual’s experience outside the current interaction with Microsoft Perform services on behalf of Microsoft, such as maintaining accounts, providing customer service, processing, or fulfilling orders/transactions, verifying customer information, processing payments, providing financing, providing analytics, providing storage, and similar services Undertake activities to verify or maintain the quality or safety of, or improve, upgrade, or enhance a service or device owned or controlled by Microsoft Collect or process sensitive data where the collection or processing is not for inferring characteristics about the individual Any other activities in accordance with any future regulations that are issued pursuant to U.S. state data privacy laws De-Identified Data .",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "We do not use or disclose your sensitive data for purposes other than the following: Perform the services or provide the goods you reasonably expect Help ensure the security and integrity of our services, systems, and data, to combat malicious deceptive, fraudulent or illegal acts, and to protect the physical safety of individuals, to the extent the processing is reasonably necessary and proportionate For short-term transient use (including non-personalized advertising), so long as the personal data is not disclosed to a third party, is not used for profiling, and is not used to alter an individual’s experience outside the current interaction with Microsoft Perform services on behalf of Microsoft, such as maintaining accounts, providing customer service, processing, or fulfilling orders/transactions, verifying customer information, processing payments, providing financing, providing analytics, providing storage, and similar services Undertake activities to verify or maintain the quality or safety of, or improve, upgrade, or enhance a service or device owned or controlled by Microsoft Collect or process sensitive data where the collection or processing is not for inferring characteristics about the individual Any other activities in accordance with any future regulations that are issued pursuant to U.S. state data privacy laws De-Identified Data .",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company makes inferences about your personality or interests."
+        },
+        {
+          "sentence": "As indicated in the Reasons we share personal data section, we share personal data with third parties for various business and commercial purposes.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We may share data we collect with internal and external partners, such as Xandr and other subsidiaries and affiliates, Yahoo, Facebook or The Trade Desk (see below), so that the ads you see in our products, their products, or on other sites are more relevant and valuable to you.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "In some cases, we share with advertisers reports about the data we have collected on their sites or ads.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "We may also contact you regarding information and offers about other products and services, or share your contact information with Microsoft's partners.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "To learn about how Microsoft collects and uses children’s data, see the Collection of data from children section of the Privacy Statement.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "When you have enabled family activity reporting for a child, Microsoft will collect details about how the child uses their devices, such as search, web, app, and game activity, and provide parents with reports of that child's online activities.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "When you enable Drive Safety, your location will be used to record your drive habits such as whether you are driving within the speed limits, if you’re using your phone while driving, and if you accelerate or brake suddenly.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "Your browsing behavior, habits, and interests are being tracked."
+        },
+        {
+          "sentence": "You can use multiple accounts from different providers, including third-party providers, with Outlook applications, including the new Outlook for Windows app .",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "If you enable location sharing for emergency calling, your location will be periodically collected to enable Microsoft to share your location with emergency calling service providers if you dial 911.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "Surface Duo relies on Google location services to determine the device’s precise geographic location to display the local weather.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "When you conduct a search, or use a feature of a Bing-powered experience that involves conducting a search or entering a command on your behalf, Microsoft will collect the searches or commands you provide (which may be in the form of text, voice data, or an image), along with your IP address, location, the unique identifiers contained in our cookies or similar technologies, the time and date of your search, and your browser configuration.",
+          "category": "Location Tracking",
+          "severity": "MEDIUM",
+          "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+        },
+        {
+          "sentence": "Microsoft operates a location service that helps determine the precise geographic location of a specific Windows device.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "When you have enabled location on a Windows device, or you have given permission for Microsoft apps to access location information on non-Windows devices, data about cell towers and Wi-Fi access points and their locations is collected by Microsoft and added to the location database after removing any data identifying the person or device from which it was collected.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "In the Windows settings app, you can also view which apps have access to the device’s precise location, turn off or on access to the device’s location for particular apps, or turn off access to the device’s location.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "You can also set a default location, which will be used when the location service can’t detect a more exact location for your device.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "Some web-based experiences or third-party apps that surface on Windows could use other technologies (such as Bluetooth, IP address, cellular modem, etc.) or cloud-based location services to determine your device’s location with varying degrees of accuracy even when you’ve turned off the device location setting.",
+          "category": "Location Tracking",
+          "severity": "MEDIUM",
+          "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+        },
+        {
+          "sentence": "To facilitate getting help in an emergency, whenever you make an emergency call, Windows will attempt to determine and share your precise location, regardless of your location settings.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "If you turn on Location services, apps that cannot use your precise location may still have access to your general location, such as your city, postal code, or region.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "When Family activity reporting is turned on for a child, Microsoft will collect details about how the child uses their device and provide parents with reports of that child's activities.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "The Maps app provides location-based services and uses Bing services to process your searches within the Maps app.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company uses geofencing or stores your location history."
+        },
+        {
+          "sentence": "When the Maps app has access to your location, and you have enabled location-based services in Windows, when you use the “@” key to initiate a search in supported text boxes in Windows apps, Bing services collects the text you type after the “@” key to provide location-based suggestions.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company uses geofencing or stores your location history."
+        },
+        {
+          "sentence": "When the Maps app has access to your location, even when the app is not in use, Microsoft may collect de-identified location data from your device to improve Microsoft services.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "The app provides location-based services, such as weather information in your calendar, but you can disable the app’s use of your location.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company uses geofencing or stores your location history."
+        },
+        {
+          "sentence": "Microsoft does not retain any image or text data you submit or the results provided, except where required to comply with legal obligations.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "To provide a better experience, such as which language to display to you, Clipchamp will collect your imprecise location.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "If you choose to use Windows Search to search \"your stuff,\" it will provide results for items on your personal OneDrive, your OneDrive for Business if so enabled, other cloud storage providers to the extent supported by those third-party providers, and on your device.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "The type of data collected will depend on your location and the verification method.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "If you have kids who want to use the Xbox network, you can set up child and teen profiles for them once they have Microsoft accounts.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "For more information about Microsoft’s collection of data from children, including Xbox, please see the Collection of data from children section of this privacy statement.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        }
+      ]
+    },
+    {
+      "company": "TikTok",
+      "sector": "Social Media / Video",
+      "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en",
+      "risk_score": 80,
+      "risk_label": "CRITICAL RISK",
+      "total_sentences": 158,
+      "total_findings": 24,
+      "high_findings": 18,
+      "medium_findings": 6,
+      "elapsed_sec": 3.0,
+      "analyzed_at": "2026-05-01 22:41:58",
+      "cat_Data": 5,
+      "cat_Location": 3,
+      "cat_Indefini": 2,
+      "cat_No": 0,
+      "cat_Behavior": 2,
+      "cat_Children": 8,
+      "cat_Law": 4,
+      "_findings": [
+        {
+          "sentence": "Information you share if you fill in advertisersâ forms on our app, or through your participation in surveys, research, promotions, marketing campaigns, events, or contests.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We may also collect precise location data, depending on your settings and as explained below.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "Also, if you choose to enable location services for the TikTok app within your device settings, we collect approximate or precise location information from your device.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "Click here to learn more about how we collect location information.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "To review, support, improve, and develop the Services, and train, test, and improve technology, such as machine learning models and algorithms, including by analyzing how people are using the Services; conducting research; soliciting feedback; monitoring your activity and usage across the devices you use to access the Services; and scanning, analyzing, and reviewing user content, messages, AI interactions, and associated metadata.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "Your browsing behavior, habits, and interests are being tracked."
+        },
+        {
+          "sentence": "To comply with our legal obligations and defend our legal rights and commercial interests, and those of our affiliates, users, and the public.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "How We Share Your Information We are committed to maintaining your trust, and while we do not sell your personal information or share your personal information with third parties for purposes of cross-context behavioral advertising where restricted by applicable law, we want you to understand when and with whom we may share the Information We Collect for the purposes described below.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        },
+        {
+          "sentence": "How We Share Your Information We are committed to maintaining your trust, and while we do not sell your personal information or share your personal information with third parties for purposes of cross-context behavioral advertising where restricted by applicable law, we want you to understand when and with whom we may share the Information We Collect for the purposes described below.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "You are targeted with behavioral advertising based on tracked activity."
+        },
+        {
+          "sentence": "Please note that information disclosed to certain third parties may be processed in accordance with their privacy policies.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "Service Providers and Business Partners We share Information We Collect with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Within Our Corporate Group We may share Information We Collect with affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Privacy Policy.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "For Legal Reasons We may share Information We Collect to comply with the law, including to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims, or government inquiries.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "To designate an authorized agent to exercise choices on your behalf, please provide evidence that you have given such agent power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "We retain information for as long as necessary to provide the Services and for the other purposes set out in this Privacy Policy.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "Your data is kept for an undefined or unlimited period of time."
+        },
+        {
+          "sentence": "We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so (such as improving and developing the Services, and enhancing its safety, security and stability), and for the exercise or defense of legal claims.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "For example, when we process your information such as your account registration information to provide you with the Services, we keep this information for as long as you have an account, subject to your updates of such information.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+        },
+        {
+          "sentence": "Children and Teens The privacy of children is important to us.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "We provide a separate experience for users under age 13 (âChildâ or âChildrenâ) in the United States, in which we collect and process only limited information.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "Please see our Childrenâs Privacy Policy to learn more.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "If we become aware that a Childâs personal information has been collected outside of this separate experience for Children, we will delete this information in accordance with applicable law and terminate the Childâs account.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "If you believe there is a user of the Services who is below the age of 13 (excluding any users of this separate experience for Children), please contact us at https://www.tiktok.com/legal/report/feedback .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "As a parent or guardian, you can also request to delete the account of your Child or to download their data, by contacting us at https://www.tiktok.com/legal/report/privacy.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Content Removal for Users Under 18 Users of the Services who are California residents and are under 18 years of age may request and obtain removal of user content they posted by contacting us at: https://www.tiktok.com/legal/report/privacy .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "Data is collected from users under a certain age — a legal red flag."
+        },
+        {
+          "sentence": "Users of the Services who are Connecticut residents and are under 18 years of age, and parents and guardians of users of the Services who are Connecticut residents under 16 years of age, may request that we unpublish or delete their own account (for users aged 13 through 17) or their Childâs account (for parents and guardians with teen users under 16) by following the instructions here .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        }
+      ]
+    },
+    {
+      "company": "Twitter / X",
+      "sector": "Social Media",
+      "url": "https://twitter.com/en/privacy",
+      "risk_score": 61,
+      "risk_label": "HIGH RISK",
+      "total_sentences": 229,
+      "total_findings": 20,
+      "high_findings": 16,
+      "medium_findings": 4,
+      "elapsed_sec": 3.2,
+      "analyzed_at": "2026-05-01 22:42:01",
+      "cat_Data": 8,
+      "cat_Location": 2,
+      "cat_Indefini": 0,
+      "cat_No": 0,
+      "cat_Behavior": 0,
+      "cat_Children": 6,
+      "cat_Law": 4,
+      "_findings": [
+        {
+          "sentence": "While we wish we could fit everything you need to know into a post, our regulators ask us to meet our legal obligations by describing them all in a lot of detail.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "You can also choose to share your current precise location or places where youâve previously used X by enabling these settings in your account.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "Depending on your settings , we also provide certain third parties with information to help us offer or operate our products and services.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "(This setting does not control sharing described elsewhere in this Privacy Policy, such as when we share information with our service providers, or through partnerships other than as described in this Help Center article.)",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Depending on your settings , or if you decide to share your data, we may share or disclose your information with third parties.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We may preserve, use, share, or disclose your information if we believe that it is reasonably necessary to: comply with a law, regulation, legal process, or governmental request ; protect the safety of any person, protect the safety or integrity of our platform, including to help prevent spam, abuse, or malicious actors on our services; explain why we have removed content or accounts from our services (e.g., for a violation ofÂ our Rules ); address fraud, security, or technical issues; or protect our rights or property, or the rights or property of those who use our services.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "We may also share or disclose your age and identity information with our partners, service providers, and others for these purposes.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We may share information amongst our affiliates to provide our products and services.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We may share, sell, or transfer information about you in connection with a merger, acquisition, reorganization, sale of assets, or bankruptcy.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        },
+        {
+          "sentence": "If you communicate with us, such as through email, we will keep information about the communication and its content for up to 18 months, unless it is necessary for us to retain it for a longer period to comply with our legal obligations or to exercise or defend our legal rights.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "We generally collect device information, location information, inferred identity information and log information using cookies.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company collects your location data."
+        },
+        {
+          "sentence": "For example: To comply with a law, regulation, legal process, or governmental request.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "And no, we donât sell your personal information.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        },
+        {
+          "sentence": "We also use data centers and cloud providers, and engage our affiliates and third-party partners and service providers located in many parts of the world to help us provide our services.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "We do not knowingly collect personal information from children under 13.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "If you become aware that your child has provided us with personal information without your consent, please contact us here .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the childâs account.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "We do not knowingly collect personal information from children under 13.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "If you become aware that your child has provided us with personal information without your consent, please contact us here .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the childâs account.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        }
+      ]
+    },
+    {
+      "company": "LinkedIn",
+      "sector": "Professional Network",
+      "url": "https://www.linkedin.com/legal/privacy-policy",
+      "risk_score": 54,
+      "risk_label": "HIGH RISK",
+      "total_sentences": 275,
+      "total_findings": 21,
+      "high_findings": 13,
+      "medium_findings": 8,
+      "elapsed_sec": 4.2,
+      "analyzed_at": "2026-05-01 22:42:06",
+      "cat_Data": 10,
+      "cat_Location": 2,
+      "cat_Indefini": 1,
+      "cat_No": 0,
+      "cat_Behavior": 3,
+      "cat_Children": 0,
+      "cat_Law": 5,
+      "_findings": [
+        {
+          "sentence": "You create your LinkedIn profile (a complete profile helps you get the most from our Services).",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "You can opt out from our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "Your browsing behavior, habits, and interests are being tracked."
+        },
+        {
+          "sentence": "We will ask you to opt-in before we use GPS or other tools to identify your precise location.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "You can also opt-in to allow us to use your precise location or proximity to others for certain tasks (e.g. to suggest other nearby Members for you to connect with, calculate the commute to a new job, or notify your connections that you are at a professional event).",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined: Data collected by advertising technologies on and off our Services using pixels, ad tags (e.g., when an advertiser installs a LinkedIn tag on their website), cookies, and other device identifiers; Member-provided information (e.g., profile, contact information, title and industry); Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, groups participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3; Information from advertising partners , vendors and publishers ; and Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket; using graduation dates to infer age or using first names or pronoun usage to infer gender; using your feed activity to infer your interests; or using device data to recognize you as a Member).",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined: Data collected by advertising technologies on and off our Services using pixels, ad tags (e.g., when an advertiser installs a LinkedIn tag on their website), cookies, and other device identifiers; Member-provided information (e.g., profile, contact information, title and industry); Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, groups participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3; Information from advertising partners , vendors and publishers ; and Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket; using graduation dates to infer age or using first names or pronoun usage to infer gender; using your feed activity to infer your interests; or using device data to recognize you as a Member).",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company makes inferences about your personality or interests."
+        },
+        {
+          "sentence": "Info to Ad Providers We do not share your personal data with any non-Affiliated third-party advertisers or ad networks except for: (i) hashed IDs or device identifiers (to the extent they are personal data in some countries); (ii) with your separate permission (e.g., in a lead generation form) or (iii) data already visible to any users of the Services (e.g., profile).",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "We seek to contractually require such advertising partners to obtain your explicit, opt-in consent before doing so where legally required, and in such instances, we take steps to ensure that consent has been provided before processing data from them.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "Social Action E.g. like, comment, follow, share Partners Partners include ad networks, exchanges and others 3.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "3.4 Related Services We share your data across our different Services and LinkedIn affiliated entities.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "We will share your personal data with our Affiliates to provide and develop our Services.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Subject to our European Regional Privacy Notice , we may also share with our Affiliates, including Microsoft, your (1) publicly-shared content (such as your public LinkedIn posts) to provide or develop their services and (2) personal data to improve, provide or develop their advertising services.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "If you purchase a Service from us, we may use a payments service provider who may separately collect information about you (e.g., for fraud prevention or to comply with legal obligations).",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services or the products or services of our Affiliates (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "We attempt to notify Members about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "4. Your Choices & Obligations 4.1 Data Retention We keep most of your personal data for as long as your account is open.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+        },
+        {
+          "sentence": "We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have restricted your account for breach of our Professional Community Policies ), enforce our User Agreement, or fulfill your request to \"unsubscribe\" from further messages from us.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "Cross-Border Data Transfers We store and use your data outside your country.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "We currently do not share personal data with third parties for their direct marketing purposes without your permission.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        }
+      ]
+    },
+    {
+      "company": "Spotify",
+      "sector": "Music Streaming",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/",
+      "risk_score": 81,
+      "risk_label": "CRITICAL RISK",
+      "total_sentences": 271,
+      "total_findings": 24,
+      "high_findings": 15,
+      "medium_findings": 9,
+      "elapsed_sec": 3.8,
+      "analyzed_at": "2026-05-01 22:42:09",
+      "cat_Data": 7,
+      "cat_Location": 3,
+      "cat_Indefini": 3,
+      "cat_No": 0,
+      "cat_Behavior": 2,
+      "cat_Children": 2,
+      "cat_Law": 7,
+      "_findings": [
+        {
+          "sentence": "Please note there are situations where Spotify is unable to delete your data, for example when: it’s still necessary to process the data for the purpose we collected it for we have an overriding interest in continuing to process the data, for example where we need the data to protect our services from fraud Spotify has a legal obligation to keep the data, or Spotify needs the data to establish, exercise or defend legal claims.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "This is also known as interest based advertising, targeted advertising, or ‘sharing’ for purposes of cross-context behavioral advertising.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "You are targeted with behavioral advertising based on tracked activity."
+        },
+        {
+          "sentence": "An example of tailored advertising is when an advertising partner provides us with information indicating that you may be interested in cars.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "For more information about how we collect and use this data, see ‘ Your general (non-precise) location ’ in the Usage Data category.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "plugin, and installation Spotify partner applications to determine whether the application is installed on your device Your general (non-precise) location",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "This includes mapping IP addresses to non-precise location data (e.g., country or region, city, state).",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "Receiving this data allows us to: calculate any commissions owed to us analyze the effectiveness of our partnership with these merchant partners understand your interests Payment and Purchase Data Advertising and marketing partners We receive data about you from certain advertising or marketing partners, including device identifiers such as hashed contact information.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "For example: when we use your personal data to tailor advertising to your interests, or when we send you email marketing User Data Usage Data Survey and Research Data To comply with a legal obligation that we are subject to.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "Publicly available information The following personal data will always be publicly available on the Spotify Service (except to any user you have blocked): your profile name your profile photo your public playlists other content you post on the Spotify Service, and any associated titles, descriptions and images You or another user can share certain information on third party services, like social media or messaging platforms.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Categories of recipients Categories of data you can choose to share Reason for choosing to share Third party applications, services and devices you connect to your Spotify account User Data Usage Data To connect your Spotify account, or so that you can use the Spotify Service in connection with third party applications, services or devices.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "When you register for an account on the Spotify Support Community, we’ll ask you to create a profile name.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "Advertising partners User Data Usage Data",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "Marketing Partners User Data Usage Data To promote Spotify with our partners.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "With respect to Spotify Service users under the age of 18, we do not disclose personal data to marketing partners by default.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "Courts and Authorities: We may process and share your personal data to comply with a request from courts, authorities, parties to litigation, or other authorized third parties.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data is disclosed to courts, law enforcement, or in legal proceedings."
+        },
+        {
+          "sentence": "We will do so when we believe in good faith it is necessary, including: to comply with a legal obligation to respond to a valid legal process (such as a search warrant, court order, or subpoena) for our own or a third party's justifiable interest such as criminal investigations, litigation, protecting someone’s safety, or preventing death or imminent bodily harm The categories of personal data processed or shared will depend on the nature of the specific request.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "6. Data retention We keep your personal data only as long as necessary to provide you with the Spotify Service and for Spotify’s legitimate and essential business purposes, such as: maintaining the performance of the Spotify Service making data-driven business decisions about new features and offerings complying with our legal obligations resolving disputes Here are some of the categories of our retention periods, and the criteria we use to determine them: Data retained until you remove it It’s your right to request that we delete certain of your personal data.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+        },
+        {
+          "sentence": "6. Data retention We keep your personal data only as long as necessary to provide you with the Spotify Service and for Spotify’s legitimate and essential business purposes, such as: maintaining the performance of the Spotify Service making data-driven business decisions about new features and offerings complying with our legal obligations resolving disputes Here are some of the categories of our retention periods, and the criteria we use to determine them: Data retained until you remove it It’s your right to request that we delete certain of your personal data.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses unless one of the limited purposes described below applies.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+        },
+        {
+          "sentence": "Data retained until your Spotify account is deleted We keep some data until your Spotify account is deleted.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "There is no clear deletion schedule — data may be kept indefinitely."
+        },
+        {
+          "sentence": "These may include mandatory data retention laws, government orders to preserve data relevant to an investigation, or data kept for the purposes of litigation.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "For example, we use: technical protections, such as encryption and pseudonymization policies and processes to challenge disproportionate or unlawful government authority requests 8.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Your data may be handed over to law enforcement or government agencies on request."
+        },
+        {
+          "sentence": "We do not knowingly collect or use personal data from children under the applicable Age Limit outside of Managed Accounts or Spotify Kids.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        },
+        {
+          "sentence": "If we learn that we’ve collected the personal data of a child under the applicable Age Limit, we’ll take reasonable steps to delete the personal data.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The policy addresses data collection from children — requires careful review."
+        }
+      ]
+    },
+    {
+      "company": "Airbnb",
+      "sector": "Travel / Marketplace",
+      "url": "https://www.airbnb.com/help/article/2855",
+      "risk_score": 0,
+      "risk_label": "LOW RISK",
+      "total_sentences": 10,
+      "total_findings": 0,
+      "high_findings": 0,
+      "medium_findings": 0,
+      "elapsed_sec": 1.5,
+      "analyzed_at": "2026-05-01 22:42:11",
+      "cat_Data": 0,
+      "cat_Location": 0,
+      "cat_Indefini": 0,
+      "cat_No": 0,
+      "cat_Behavior": 0,
+      "cat_Children": 0,
+      "cat_Law": 0,
+      "_findings": []
+    },
+    {
+      "company": "Zoom",
+      "sector": "Video Conferencing",
+      "url": "https://explore.zoom.us/en/privacy/",
+      "risk_score": 65,
+      "risk_label": "HIGH RISK",
+      "total_sentences": 224,
+      "total_findings": 20,
+      "high_findings": 14,
+      "medium_findings": 6,
+      "elapsed_sec": 4.6,
+      "analyzed_at": "2026-05-01 22:42:15",
+      "cat_Data": 9,
+      "cat_Location": 1,
+      "cat_Indefini": 2,
+      "cat_No": 0,
+      "cat_Behavior": 3,
+      "cat_Children": 3,
+      "cat_Law": 2,
+      "_findings": [
+        {
+          "sentence": "Privacy Rights and Choices Children How to Contact Us Retention European Data Protection Specific Information California & Other U.S. States Notice at Collection California & Other U.S. State Privacy Rights Changes to This Privacy Statement",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Device Information : Information about the computers, phones, and other devices used when interacting with Zoom products and services, which may include information about the speakers, microphone, camera, OS version, hard disk ID, PC name, MAC address, IP address (which may be used to infer general location at a city or country level), device attributes (like operating system version and battery level), WiFi information, and other device information (like Bluetooth signals).",
+          "category": "Location Tracking",
+          "severity": "MEDIUM",
+          "plain_english": "Your location is inferred from your IP address, Wi-Fi, or Bluetooth signals."
+        },
+        {
+          "sentence": "Zoom may also obtain information from third-party advertising partners that deliver ads displayed on Zoom products and services, such as whether you clicked on an ad they showed you.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "Marketing and Promotions: If authorized by any applicable settings, to permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom products and services, including based on your product usage, information we receive from third-party partners, information you provide to process referral invitations, or if you visit our websites, information about how and when you visit, and your interactions with them.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with advertising or data broker networks."
+        },
+        {
+          "sentence": "Zoom provides personal data to third parties only with consent or in one of the following circumstances (subject to your prior consent where required under applicable law): Resellers: If an account owner licensed or purchased Zoom products and services from a third-party reseller of Zoom products and services, the reseller may be able to access personal data and content for users, including meetings, webinars, and messages hosted by the account owner.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "To opt out of our use of third-party cookies that share data with these partners, visit our cookie management tool, available in Cookies Settings .",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Third-Party Developers: If you purchase a third-party app or integration from the Zoom App Marketplace, Zoom may share information about the purchase with the third-party developer, to provide the app or integration.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Depending on their license with Zoom, the account owner can authorize additional users on their account, and the account owner can create and/or access the profile information for all users on their account.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "For educational organizations that use Zoom products and services to provide educational services to children under 18, Zoom’s Children’s Educational Privacy Statement is available here .",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "Retention We retain personal data for as long as required to engage in the uses described in this Privacy Statement, unless a longer retention period is required by applicable law.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "Your data is kept for an undefined or unlimited period of time."
+        },
+        {
+          "sentence": "The criteria used to determine our retention periods include the following: The length of time we have an ongoing relationship with you and provide Zoom products and services to you (for example, for as long as you have an account with us or keep using our products); Whether account owners modify or their users delete information through their accounts; Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation).",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "You have the right to withdraw your consent at any time by visiting our cookie management tool, available in Cookies Settings; As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities.",
+          "category": "Law Enforcement & Government Sharing",
+          "severity": "MEDIUM",
+          "plain_english": "Data can be shared under subpoena, court order, or national security requests."
+        },
+        {
+          "sentence": "Where personal data of users in the EEA, Switzerland, or the UK is being transferred to a recipient located in a country outside the EEA, Switzerland, or the UK which has not been recognized as having an adequate level of data protection, we ensure that the transfer is governed by the European Commission’s standard contractual clauses.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        },
+        {
+          "sentence": "Please see our Children’s Educational Privacy Statement for more information.",
+          "category": "Children's Data Collection",
+          "severity": "HIGH",
+          "plain_english": "The company handles children's data — check if proper safeguards exist."
+        },
+        {
+          "sentence": "; Categories of third parties to whom we disclose Personal Information for business purposes are described in “How Do We Share Personal Data?” ; Zoom may permit advertising and analytics services that are intended to deliver advertising to you and/or analyze your interactions, based on your interactions with our website or app which may constitute a “sale” or “sharing” of data for targeted advertising purposes under certain state privacy laws.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data is shared with third-party partners, likely for advertising."
+        },
+        {
+          "sentence": "Zoom retains personal data for as long as required to engage in the uses described in this Privacy Statement, unless a longer retention period is required by applicable law.",
+          "category": "Indefinite Data Retention",
+          "severity": "HIGH",
+          "plain_english": "Your data is kept for an undefined or unlimited period of time."
+        },
+        {
+          "sentence": "We do not sell your personal data in the conventional sense.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        },
+        {
+          "sentence": "However, like many companies, we may use advertising and analytics services that are intended to analyze your interactions with our website or app, based on information obtained from cookies or other trackers, including for delivering advertising to you (such as interest-based, targeted, or cross-context behavioral advertising).",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "You are targeted with behavioral advertising based on tracked activity."
+        },
+        {
+          "sentence": "Zoom does not use or disclose sensitive personal information (as defined under CCPA) for purposes of inferring characteristics about a consumer, or in any way that would require Zoom to provide a right to limit under the CCPA.",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company makes inferences about your personality or interests."
+        },
+        {
+          "sentence": "California’s Shine the Light Law Under California’s Shine the Light law, you may also ask companies with whom you have formed a business relationship primarily for personal, family or household purposes to provide the names of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes and the categories of personal information disclosed.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "Your data may be transferred or disclosed to outside organizations."
+        }
+      ]
+    },
+    {
+      "company": "DuckDuckGo",
+      "sector": "Privacy-focused Search",
+      "url": "https://duckduckgo.com/privacy",
+      "risk_score": 22,
+      "risk_label": "LOW RISK",
+      "total_sentences": 83,
+      "total_findings": 4,
+      "high_findings": 3,
+      "medium_findings": 1,
+      "elapsed_sec": 1.6,
+      "analyzed_at": "2026-05-01 22:42:17",
+      "cat_Data": 1,
+      "cat_Location": 2,
+      "cat_Indefini": 0,
+      "cat_No": 0,
+      "cat_Behavior": 1,
+      "cat_Children": 0,
+      "cat_Law": 0,
+      "_findings": [
+        {
+          "sentence": "Trackers lurk nearly everywhere online, trying to scoop up your search history, browsing history, location history, and more.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "The company uses geofencing or stores your location history."
+        },
+        {
+          "sentence": "Other companies track your data — like your search and browsing history — to create detailed profiles about you, and then use those profiles to follow you around with ads so creepy it can seem like your devices are listening in on you (even when they aren’t).",
+          "category": "Behavioral Profiling",
+          "severity": "MEDIUM",
+          "plain_english": "The company builds a behavioral profile about you."
+        },
+        {
+          "sentence": "For local search results in particular, we've further engineered a solution to shield your precise location from us and our content providers that sends us a random location nearish to you, which we also never log to disk.",
+          "category": "Location Tracking",
+          "severity": "HIGH",
+          "plain_english": "Your precise or real-time GPS location is being tracked."
+        },
+        {
+          "sentence": "We do not sell your personal information.",
+          "category": "Data Selling & Third-Party Sharing",
+          "severity": "HIGH",
+          "plain_english": "This policy explicitly states they may SELL your personal data."
+        }
+      ]
+    }
+  ],
+  "failed": [
+    {
+      "company": "Meta (Facebook)",
+      "url": "https://www.facebook.com/privacy/policy/",
+      "error": "400 Client Error: Bad Request for url: https://www.facebook.com/privacy/policy/"
+    },
+    {
+      "company": "Amazon",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+      "error": "403 Client Error: Forbidden for url: https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+    }
+  ]
+}
