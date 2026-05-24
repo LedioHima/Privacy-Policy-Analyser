@@ -1,11 +1,11 @@
-# week4/batch_tester.py
+# batch_tester.py
 # ─────────────────────────────────────────────────────────────────────────────
-# Week 4 — Batch Policy Tester
+# Batch Policy Tester
 #
 # Tests the full analysis pipeline against 10 real-world privacy policies and
 # produces a comparative evaluation report in both terminal and CSV formats.
 #
-# This script is the core of the Week 4 evaluation chapter:
+# This script runs batch evaluation:
 #   - Runs every URL through the existing analyzer pipeline
 #   - Records risk score, label, finding counts per category
 #   - Saves results to evaluation_results.csv for the thesis appendix
@@ -121,7 +121,7 @@ def run_batch_test(limit=None):
     failed   = []
 
     print(f"\n{'=' * 70}")
-    print(f"  WEEK 4 — BATCH EVALUATION: {len(policies)} Privacy Policies")
+    print(f"  BATCH EVALUATION: {len(policies)} Privacy Policies")
     print(f"  Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"{'=' * 70}\n")
 

@@ -1,17 +1,17 @@
 """
-Privacy Policy Analyzer - Week 2: Risk Detection Engine
-=========================================================
-Reads sentences from Week 1 output (or runs the full pipeline from a URL),
+Privacy Policy Analyzer — Risk Detection Engine
+=================================================
+Reads sentences from a saved file (or runs the full pipeline from a URL),
 detects risky clauses across 7 risk categories using keyword pattern matching,
 assigns severity levels, calculates an overall privacy risk score (0–100),
 and prints a detailed color-coded report.
 
-Dependencies (same as Week 1, nothing new to install):
+Dependencies:
     pip install requests beautifulsoup4 spacy lxml
     python -m spacy download en_core_web_sm
 
 Usage:
-    # Analyze from a URL directly (runs Week 1 pipeline automatically):
+    # Analyze from a URL directly (runs the full pipeline automatically):
     python risk_detector.py https://policies.google.com/privacy
 
     # Analyze from an already-saved sentences file:
@@ -25,7 +25,7 @@ from dataclasses import dataclass, field
 from datetime import datetime
 
 # ─────────────────────────────────────────────────────────────────
-# WEEK 1 PIPELINE — imported inline so this file is self-contained
+# TEXT EXTRACTION PIPELINE — imported inline so this file is self-contained
 # ─────────────────────────────────────────────────────────────────
 
 import requests
@@ -112,7 +112,7 @@ class AnalysisResult:
 
 
 # ─────────────────────────────────────────────────────────────────
-# KEYWORD DICTIONARY — The academic core of Week 2
+# KEYWORD DICTIONARY — Core risk pattern definitions
 # Each pattern is a carefully chosen regex that matches risky language
 # while avoiding false positives.
 # ─────────────────────────────────────────────────────────────────
@@ -571,13 +571,13 @@ def print_report(result: AnalysisResult):
 
 
 # ─────────────────────────────────────────────────────────────────
-# SAVE REPORT — Export findings to JSON for Week 3 backend
+# SAVE REPORT — Export findings to JSON for the Flask backend
 # ─────────────────────────────────────────────────────────────────
 
 def save_report(result: AnalysisResult, output_file: str = "risk_report.json"):
     """
     Saves the full analysis result to a JSON file.
-    This will be read by the Week 3 Flask backend to serve the frontend.
+    This will be read by the Flask backend to serve the frontend.
     """
     data = {
         "url": result.url,
@@ -609,11 +609,11 @@ def save_report(result: AnalysisResult, output_file: str = "risk_report.json"):
 
 def analyze(url_or_file: str, is_file: bool = False) -> AnalysisResult:
     """
-    Full Week 2 pipeline:
+    Full analysis pipeline:
     Sentences → Detect risks → Score → Report → Save
     """
     print("\n" + "=" * 70)
-    print("  PRIVACY POLICY ANALYZER — Week 2: Risk Detection Engine")
+    print("  PRIVACY POLICY ANALYZER — Risk Detection Engine")
     print("=" * 70 + "\n")
 
     # ── Get sentences ──────────────────────────────────────────────

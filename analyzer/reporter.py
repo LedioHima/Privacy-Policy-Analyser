@@ -4,7 +4,7 @@
 #
 # Responsibilities:
 #   - Print a color-coded risk report to the terminal (human-readable)
-#   - Export findings to a JSON file (machine-readable, consumed by Week 3 API)
+#   - Export findings to a JSON file (machine-readable, consumed by the REST API)
 #
 # Color coding:
 #   RED    → HIGH severity finding or high risk score
@@ -156,8 +156,8 @@ def save_json_report(result: AnalysisResult, filepath: str = "risk_report.json")
     """
     Exports the full analysis result to a JSON file.
 
-    The JSON file is the contract between the Week 2 detection engine and
-    the Week 3 Flask backend. The backend reads this file to serve the
+    The JSON file is the contract between the detection engine and
+    the Flask backend. The backend reads this file to serve the
     React frontend.
 
     Args:

@@ -1,4 +1,4 @@
-# analyzer/pipeline.py  (Week 3 update — adds run_from_text)
+# analyzer/pipeline.py — adds run_from_text
 # ─────────────────────────────────────────────────────────────────────────────
 # Orchestrates all pipeline stages. Two entry points:
 #   run()            → full pipeline from a URL (or sentences file)

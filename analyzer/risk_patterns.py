@@ -1,6 +1,6 @@
 # analyzer/risk_patterns.py
 # ─────────────────────────────────────────────────────────────────────────────
-# The keyword dictionary — the academic core of Week 2.
+# The keyword dictionary — core risk pattern definitions.
 #
 # This module defines all 7 RiskCategory objects, each containing a list of
 # RiskPattern regex patterns. This is the only file that needs to be updated

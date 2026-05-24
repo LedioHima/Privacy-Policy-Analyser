@@ -19,7 +19,7 @@ Usage:
 Output:
     - Color-coded report printed to terminal
     - policy_sentences.txt  — extracted sentences (reuse with --file)
-    - risk_report.json      — full results for Week 3 Flask backend
+    - risk_report.json      — full results for the Flask backend
 """
 
 import sys

@@ -1,6 +1,6 @@
 # backend/app.py
 # ─────────────────────────────────────────────────────────────────────────────
-# Privacy Policy Analyzer — Flask REST API (Week 3)
+# Privacy Policy Analyzer — Flask REST API
 #
 # Endpoints:
 #   POST   /api/analyze         → Analyze a URL, returns full AnalysisResult JSON
